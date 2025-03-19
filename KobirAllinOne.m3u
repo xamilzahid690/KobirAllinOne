@@ -1,0 +1,797 @@
+#EXTM3U
+ | |/ / __ \|  _ \_   _|  __ \  \ \ / /      | |_   _/ __ \  |__   __\ \    / /
+ | ' / |  | | |_) || | | |__) |  \ V /       | | | || |  | |    | |   \ \  / / 
+ |  <| |  | |  _ < | | |  _  /    > <    _   | | | || |  | |    | |    \ \/ /  
+ | . \ |__| | |_) || |_| | \ \   / . \  | |__| |_| || |__| |    | |     \  /   
+ |_|\_\____/|____/_____|_|  \_\ /_/ \_\  \____/|_____\____/     |_|      \/    
+                                                                               
+                                                                               
+
+
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeebangla" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeebangla
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-9z5543514" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-9z5543514
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-wion" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/WION.png",WION
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-wion
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeehindustan" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bharat.png",Zee Bharat
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeehindustan
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-bigmagic_1786965389" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-bigmagic_1786965389
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zing" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",Zing
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zing
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeetvhd" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeetvhd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-tvhd_0" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-tvhd_0
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeeyuva" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeeyuva
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeecafehd" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",Zee Café HD
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeecafehd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-bigganga" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-bigganga
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeeanmol" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeeanmol
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeecinemahd" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeecinemahd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-tvpictureshd" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&Pictures HD
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-tvpictureshd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeetalkies" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",Zee Talkies HD
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeetalkies
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeebanglacinema" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeebanglacinema
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-215" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png",Zee Punjabi
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-215
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeeanmolcinema" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeeanmolcinema
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeeclassic" group-title="Zee5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeeclassic
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-pictures" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png",&Pictures
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-pictures
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeecinema" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeecinema
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeeaction" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeeaction
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-channel_2105335046" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",&flix HD
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-channel_2105335046
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeetv" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeetv
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeesalaam" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeesalaam
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-sarthaktv" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Sarthak.png",Zee Sarthak
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-sarthaktv
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-176" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Classic
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-176
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-209" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png",&xplorHD
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-209
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-216" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png",Zee Biskope
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-216
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-348" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-348
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-9z5383484" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-9z5383484
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-9z5383489" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png",Zee Talkies
+https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-9z5383489
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-name="Colors HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=144 , Colors HD
+https://newhub247.store/app/csshd/live.m3u8?id=144
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-name="Sony SAB" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=154 , Sony SAB
+https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" tvg-name="Rishtey" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=279 , Rishtey
+https://newhub247.store/app/csshd/live.m3u8?id=279
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-name="SET HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=291 , SET HD
+https://newhub247.store/app/csshd/live.m3u8?id=291
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" tvg-name="Sony SAB HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=471 , Sony SAB HD
+https://newhub247.store/app/csshd/live.m3u8?id=471
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" tvg-name="And TV HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=472 , And TV HD
+https://newhub247.store/app/csshd/live.m3u8?id=472
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" tvg-name="Sony Pal" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=474 , Sony Pal
+https://newhub247.store/app/csshd/live.m3u8?id=474
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" tvg-name="Epic" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=481 , Epic
+https://newhub247.store/app/csshd/live.m3u8?id=481
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Enterr_10.png" tvg-name="Enterr 10" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=485 , Enterr 10
+https://newhub247.store/app/csshd/live.m3u8?id=485
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" tvg-name="Investigation Discovery" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=527 , Investigation Discovery
+https://newhub247.store/app/csshd/live.m3u8?id=527
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dabangg.png" tvg-name="Dabangg" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=532 , Dabangg
+https://newhub247.store/app/csshd/live.m3u8?id=532
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png" tvg-name="Dhamaal TV" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=535 , Dhamaal TV
+https://newhub247.store/app/csshd/live.m3u8?id=535
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" tvg-name="Sony aath" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=697 , Sony aath
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png" tvg-name="Aakash Aath" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=698 , Aakash Aath
+https://newhub247.store/app/csshd/live.m3u8?id=698
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dangal.png" tvg-name="Dangal" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=701 , Dangal
+https://newhub247.store/app/csshd/live.m3u8?id=701
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" tvg-name="Colors Bengali HD" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=756 , Colors Bengali HD
+https://newhub247.store/app/csshd/live.m3u8?id=756
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Exclusive.png" tvg-name="Jio Exclusive HD" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=866 , Jio Exclusive HD
+https://newhub247.store/app/csshd/live.m3u8?id=866
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arre.png" tvg-name="Arre HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=963 , Arre HD
+https://newhub247.store/app/csshd/live.m3u8?id=963
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST1_HD.png" tvg-name="TEST1 HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=978 , TEST1 HD
+https://newhub247.store/app/csshd/live.m3u8?id=978
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST2_HD.png" tvg-name="TEST2 HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=979 , TEST2 HD
+https://newhub247.store/app/csshd/live.m3u8?id=979
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TheQIndia.png" tvg-name="The Q" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=1066 , The Q
+https://newhub247.store/app/csshd/live.m3u8?id=1066
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" tvg-name="Comedy Central HD" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=1157 , Comedy Central HD
+https://newhub247.store/app/csshd/live.m3u8?id=1157
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-name="Colors Infinity HD" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=1158 , Colors Infinity HD
+https://newhub247.store/app/csshd/live.m3u8?id=1158
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png" tvg-name="Hi Dost!" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=1232 , Hi Dost!
+https://newhub247.store/app/csshd/live.m3u8?id=1232
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" tvg-name="Colors Infinity SD" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=1325 , Colors Infinity SD
+https://newhub247.store/app/csshd/live.m3u8?id=1325
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" tvg-name="Comedy Central SD" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=1327 , Comedy Central SD
+https://newhub247.store/app/csshd/live.m3u8?id=1327
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Arunprabha.png" tvg-name="DD Arunprabha" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1328 , DD Arunprabha
+https://newhub247.store/app/csshd/live.m3u8?id=1328
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Gyandarshan.png" tvg-name="DD Gyandarshan" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1329 , DD Gyandarshan
+https://newhub247.store/app/csshd/live.m3u8?id=1329
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" tvg-name="Big Magic" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1359 , Big Magic
+https://newhub247.store/app/csshd/live.m3u8?id=1359
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" tvg-name="Colors SD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1368 , Colors SD
+https://newhub247.store/app/csshd/live.m3u8?id=1368
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" tvg-name="Colors Bangla SD" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=1369 , Colors Bangla SD
+https://newhub247.store/app/csshd/live.m3u8?id=1369
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" tvg-name="Sony Wah" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1393 , Sony Wah
+https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" tvg-name="Rongeen TV" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=1667 , Rongeen TV
+https://newhub247.store/app/csshd/live.m3u8?id=1667
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" tvg-name="Sun Bangla" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=1669 , Sun Bangla
+https://newhub247.store/app/csshd/live.m3u8?id=1669
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/V24_TV.png" tvg-name="JKAC News" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1739 , JKAC News
+https://newhub247.store/app/csshd/live.m3u8?id=1739
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Channel_Vision.png" tvg-name="Channel Vision" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=1762 , Channel Vision
+https://newhub247.store/app/csshd/live.m3u8?id=1762
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pasand.png" tvg-name="Pasand" tvg-type="Entertainment" tvg-language="Bhojpuri" group-title="Entertainment",tvg-id=1798 , Pasand
+https://newhub247.store/app/csshd/live.m3u8?id=1798
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" tvg-name="Green Chillies" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1834 , Green Chillies
+https://newhub247.store/app/csshd/live.m3u8?id=1834
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MH1_DilSe.png" tvg-name="MH1 Dil Se" tvg-type="Entertainment" tvg-language="Bhojpuri" group-title="Entertainment",tvg-id=1925 , MH1 Dil Se
+https://newhub247.store/app/csshd/live.m3u8?id=1925
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" tvg-name="Shemaroo TV" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1961 , Shemaroo TV
+https://newhub247.store/app/csshd/live.m3u8?id=1961
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PlusTest1.png" tvg-name="PlusTest1" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2000 , PlusTest1
+https://newhub247.store/app/csshd/live.m3u8?id=2000
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PlusTest2_HD.png" tvg-name="PlusTest2 HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2001 , PlusTest2 HD
+https://newhub247.store/app/csshd/live.m3u8?id=2001
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV.png" tvg-name="And TV" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2024 , And TV
+https://newhub247.store/app/csshd/live.m3u8?id=2024
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bollywood_Hungama.png" tvg-name="Bollywood Hungama" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2040 , Bollywood Hungama
+https://newhub247.store/app/csshd/live.m3u8?id=2040
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" tvg-name="Gangaur" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2077 , Gangaur
+https://newhub247.store/app/csshd/live.m3u8?id=2077
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" tvg-name="Shemaroo Umang" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2078 , Shemaroo Umang
+https://newhub247.store/app/csshd/live.m3u8?id=2078
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-name="Animax" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=2258 , Animax
+https://newhub247.store/app/csshd/live.m3u8?id=2258
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png" tvg-name="Friends TV" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=2354 , Friends TV
+https://newhub247.store/app/csshd/live.m3u8?id=2354
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bangla.png" tvg-name="Boogle Bangla" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=2817 , Boogle Bangla
+https://newhub247.store/app/csshd/live.m3u8?id=2817
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" tvg-name="KCM" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=2854 , KCM
+https://newhub247.store/app/csshd/live.m3u8?id=2854
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/No_Filter_Neha.png" tvg-name="NoFilterNeha" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2962 , NoFilterNeha
+https://newhub247.store/app/csshd/live.m3u8?id=2962
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" tvg-name="Rupashi Bangla" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=3005 , Rupashi Bangla
+https://newhub247.store/app/csshd/live.m3u8?id=3005
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maya_Tv.png" tvg-name="Maya Tv" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=3008 , Maya Tv
+https://newhub247.store/app/csshd/live.m3u8?id=3008
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rai_Vs_Rai.png" tvg-name="Sony LIV Exclusive" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=3020 , Sony LIV Exclusive
+https://newhub247.store/app/csshd/live.m3u8?id=3020
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/RC_Studio.png" tvg-name="RC Studio" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=3021 , RC Studio
+https://newhub247.store/app/csshd/live.m3u8?id=3021
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" tvg-name="Unique Tv" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=3022 , Unique Tv
+https://newhub247.store/app/csshd/live.m3u8?id=3022
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHStyle_Icon.png" tvg-name="BH Style Icons" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=3028 , BH Style Icons
+https://newhub247.store/app/csshd/live.m3u8?id=3028
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/bollywoodmasala.png" tvg-name="Bollywood Masala" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=3029 , Bollywood Masala
+https://newhub247.store/app/csshd/live.m3u8?id=3029
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raapchik.png" tvg-name="Raapchik" tvg-type="Entertainment" tvg-language="Bhojpuri" group-title="Entertainment",tvg-id=3069 , Raapchik
+https://newhub247.store/app/csshd/live.m3u8?id=3069
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_Asia.png" tvg-name="TV Asia Powered by Shemaroo" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=3071 , TV Asia Powered by Shemaroo
+https://newhub247.store/app/csshd/live.m3u8?id=3071
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sundrani_TV.png" tvg-name="Sundrani TV" tvg-type="Entertainment" tvg-language="" group-title="Entertainment",tvg-id=3083 , Sundrani TV
+https://newhub247.store/app/csshd/live.m3u8?id=3083
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png" tvg-name="Taiwan Plus" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=3084 , Taiwan Plus
+https://newhub247.store/app/csshd/live.m3u8?id=3084
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-name="Sony HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=sl291 , Sony HD
+https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" tvg-name="Sony SAB HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=sl154 , Sony SAB HD
+https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" tvg-name="Sony PAL" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=sl474 , Sony PAL
+https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com
+
+#EXTINF:-1 tvg-id="Gubbare.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zknae6Nq0rVK2NY-FnEo8PusqSDTbx0p-g&s" group-title="Kids", Gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-name="Nick Junior" tvg-type="Kids" tvg-language="English" group-title="Kids",tvg-id=544 , Nick Junior
+https://newhub247.store/app/csshd/live.m3u8?id=544
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" tvg-name="Nick Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=545 , Nick Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=545
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-name="Nickelodeon Jr." tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=548 , Nickelodeon Jr.
+https://newhub247.store/app/csshd/live.m3u8?id=548
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" tvg-name="Discovery Kids 2" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=554 , Discovery Kids 2
+https://newhub247.store/app/csshd/live.m3u8?id=554
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-name="Pogo Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=559 , Pogo Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=559
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" tvg-name="Sonic Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=815 , Sonic Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=815
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" tvg-name="Cartoon Network Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=816, Cartoon Network Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=816
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image//sm/sony-yay-bangla.png" tvg-name="Sony Yay Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=872  , Sony Yay Bangla
+https://dns.bajimath.com/candy/vstream.php?id=edf7ba617dc5&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" tvg-name="Sony Yay Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=872 , Sony Yay Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=872
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_English.png" tvg-name="CN HD+ English" tvg-type="Kids" tvg-language="English" group-title="Kids",tvg-id=1079 , CN HD+ English
+https://newhub247.store/app/csshd/live.m3u8?id=1079
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Highbrow.png" tvg-name="Highbrow" tvg-type="Kids" tvg-language="English" group-title="Kids",tvg-id=1216 , Highbrow
+https://newhub247.store/app/csshd/live.m3u8?id=1216
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-name="Nick HD+" tvg-type="Kids" tvg-language="English" group-title="Kids",tvg-id=1226 , Nick HD+
+https://newhub247.store/app/csshd/live.m3u8?id=1226
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" tvg-name="Nick Bangla" tvg-type="Kids" tvg-language="Bengali" group-title="Kids",tvg-id=1341 , Nick Bangla
+https://newhub247.store/app/csshd/live.m3u8?id=1341
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Bangla.png" tvg-name="Sonic Bangla" tvg-type="Kids" tvg-language="Bengali" group-title="Kids",tvg-id=1345 , Sonic Bangla
+https://newhub247.store/app/csshd/live.m3u8?id=1345
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_KIDS.png" tvg-name="Jio KIDS" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=1430 , Jio KIDS
+https://newhub247.store/app/csshd/live.m3u8?id=1430
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" tvg-name="HooplaKidz TV" tvg-type="Kids" tvg-language="English" group-title="Kids",tvg-id=1780 , HooplaKidz TV
+https://newhub247.store/app/csshd/live.m3u8?id=1780
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" tvg-name="The Q Kahaniyan" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=1920 , The Q Kahaniyan
+https://newhub247.store/app/csshd/live.m3u8?id=1920
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Power_Kids_TV.png" tvg-name="Power Kids TV" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=2774 , Power Kids TV
+https://newhub247.store/app/csshd/live.m3u8?id=2774
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/qtoonz.png" tvg-name="Q Toonz" tvg-type="Kids" tvg-language="English" group-title="Kids",tvg-id=3055 , Q Toonz
+https://newhub247.store/app/csshd/live.m3u8?id=3055
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" tvg-name="History TV18 HD" tvg-type="Infotainment" tvg-language="English" group-title="Infotainment",tvg-id=146 , History TV18 HD
+https://newhub247.store/app/csshd/live.m3u8?id=146
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_English.png" tvg-name="Discovery" tvg-type="Infotainment" tvg-language="English" group-title="Infotainment",tvg-id=242 , Discovery
+https://newhub247.store/app/csshd/live.m3u8?id=242
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" tvg-name="Animal Planet HD World" tvg-type="Infotainment" tvg-language="English" group-title="Infotainment",tvg-id=286 , Animal Planet HD World
+https://newhub247.store/app/csshd/live.m3u8?id=286
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-name="Discovery HD World" tvg-type="Infotainment" tvg-language="English" group-title="Infotainment",tvg-id=463 , Discovery HD World
+https://newhub247.store/app/csshd/live.m3u8?id=463
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" tvg-name="Discovery Turbo" tvg-type="Infotainment" tvg-language="English" group-title="Infotainment",tvg-id=541 , Discovery Turbo
+https://newhub247.store/app/csshd/live.m3u8?id=541
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" tvg-name="Animal Planet Hindi" tvg-type="Infotainment" tvg-language="Hindi" group-title="Infotainment",tvg-id=566 , Animal Planet Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=566
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" tvg-name="Discovery Science" tvg-type="Infotainment" tvg-language="English" group-title="Infotainment",tvg-id=568 , Discovery Science
+https://newhub247.store/app/csshd/live.m3u8?id=568
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" tvg-name="Discovery Bengali" tvg-type="Infotainment" tvg-language="Bengali" group-title="Infotainment",tvg-id=573 , Discovery Bengali
+https://newhub247.store/app/csshd/live.m3u8?id=573
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" tvg-name="Discovery Hindi" tvg-type="Infotainment" tvg-language="Hindi" group-title="Infotainment",tvg-id=575 , Discovery Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=575
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png" tvg-name="History TV18 HD Hindi" tvg-type="Infotainment" tvg-language="Hindi" group-title="Infotainment",tvg-id=578 , History TV18 HD Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=578
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Events.png" tvg-name="Jio Events HD" tvg-type="Infotainment" tvg-language="Hindi" group-title="Infotainment",tvg-id=871 , Jio Events HD
+https://newhub247.store/app/csshd/live.m3u8?id=871
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Channel.png" tvg-name="Desi Channel" tvg-type="Infotainment" tvg-language="Punjabi" group-title="Infotainment",tvg-id=906 , Desi Channel
+https://newhub247.store/app/csshd/live.m3u8?id=906
+
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Global_Sanjh.png" tvg-name="Global Sanjh" tvg-type="Infotainment" tvg-language="Punjabi" group-title="Infotainment",tvg-id=1265 , Global Sanjh
+https://newhub247.store/app/csshd/live.m3u8?id=1265
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_TV18_SD.png" tvg-name="History TV18 SD" tvg-type="Infotainment" tvg-language="English" group-title="Infotainment",tvg-id=1471 , History TV18 SD
+https://newhub247.store/app/csshd/live.m3u8?id=1471
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/World_Punjab.png" tvg-name="World  Punjabi" tvg-type="Infotainment" tvg-language="Punjabi" group-title="Infotainment",tvg-id=1534 , World  Punjabi
+https://newhub247.store/app/csshd/live.m3u8?id=1534
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png" tvg-name="Sristi TV" tvg-type="Infotainment" tvg-language="Bengali" group-title="Infotainment",tvg-id=1561 , Sristi TV
+https://newhub247.store/app/csshd/live.m3u8?id=1561
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Purnima_TV.png" tvg-name="Purnima TV" tvg-type="Infotainment" tvg-language="Bengali" group-title="Infotainment",tvg-id=1740 , Purnima TV
+https://newhub247.store/app/csshd/live.m3u8?id=1740
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/U_Bangla.png" tvg-name="U Bangla" tvg-type="Infotainment" tvg-language="Bengali" group-title="Infotainment",tvg-id=2184 , U Bangla
+https://newhub247.store/app/csshd/live.m3u8?id=2184
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-name="Wild Earth" tvg-type="Infotainment" tvg-language="English" group-title="Infotainment",tvg-id=2437 , Wild Earth
+https://newhub247.store/app/csshd/live.m3u8?id=2437
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Haryana_Buzz.png" tvg-name="Haryana Buzz" tvg-type="Infotainment" tvg-language="Hindi" group-title="Infotainment",tvg-id=2938 , Haryana Buzz
+https://newhub247.store/app/csshd/live.m3u8?id=2938
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Tashan_TV.png" tvg-name="Desi Tashan TV" tvg-type="Infotainment" tvg-language="Hindi" group-title="Infotainment",tvg-id=3061 , Desi Tashan TV
+https://newhub247.store/app/csshd/live.m3u8?id=3061
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/HR_Tashan_Music.png" tvg-name="Haryana Tashan Music" tvg-type="Infotainment" tvg-language="Hindi" group-title="Infotainment",tvg-id=3062 , Haryana Tashan Music
+https://newhub247.store/app/csshd/live.m3u8?id=3062
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" tvg-name="Sony BBC Earth HD" tvg-type="Infotainment" tvg-language="English" group-title="Infotainment",tvg-id=sl852 , Sony BBC Earth HD
+https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Movies.png" tvg-name="B4U Movies" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=182 , B4U Movies
+https://newhub247.store/app/csshd/live.m3u8?id=182
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-name="And Pictures HD" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=185 , And Pictures HD
+https://newhub247.store/app/csshd/live.m3u8?id=185
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" tvg-name="Sony Max SD" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=289 , Sony Max SD
+https://newhub247.store/app/csshd/live.m3u8?id=289
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" tvg-name="Sony Max HD" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=476 , Sony Max HD
+https://newhub247.store/app/csshd/live.m3u8?id=476
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" tvg-name="Colors Cineplex" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=482 , Colors Cineplex
+https://newhub247.store/app/csshd/live.m3u8?id=482
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" tvg-name="Sony MAX2" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=483 , Sony MAX2
+https://newhub247.store/app/csshd/live.m3u8?id=483
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" tvg-name="Bhojpuri Cinema" tvg-type="Movies" tvg-language="Bhojpuri" group-title="Movies",tvg-id=486 , Bhojpuri Cinema
+https://newhub247.store/app/csshd/live.m3u8?id=486
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" tvg-name="Maha Movies" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=809 , Maha Movies
+https://newhub247.store/app/csshd/live.m3u8?id=809
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Osar_Movies.png" tvg-name="Oscar Movies" tvg-type="Movies" tvg-language="Bhojpuri" group-title="Movies",tvg-id=883 , Oscar Movies
+https://newhub247.store/app/csshd/live.m3u8?id=883
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" tvg-name="B4U Kadak" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=1295 , B4U Kadak
+https://newhub247.store/app/csshd/live.m3u8?id=1295
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" tvg-name="B4U Bhojpuri" tvg-type="Movies" tvg-language="Bhojpuri" group-title="Movies",tvg-id=1296 , B4U Bhojpuri
+https://newhub247.store/app/csshd/live.m3u8?id=1296
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" tvg-name="&Flix HD" tvg-type="Movies" tvg-language="English" group-title="Movies",tvg-id=1322 , &Flix HD
+https://newhub247.store/app/csshd/live.m3u8?id=1322
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" tvg-name="And Prive HD" tvg-type="Movies" tvg-language="English" group-title="Movies",tvg-id=1349 , And Prive HD
+https://newhub247.store/app/csshd/live.m3u8?id=1349
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" tvg-name="Colors Cineplex Superhit" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=1450 , Colors Cineplex Superhit
+https://newhub247.store/app/csshd/live.m3u8?id=1450
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-name="Colors Cineplex HD" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=1477 , Colors Cineplex HD
+https://newhub247.store/app/csshd/live.m3u8?id=1477
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" tvg-name="Colors Bangla Cinema" tvg-type="Movies" tvg-language="Bengali" group-title="Movies",tvg-id=1657 , Colors Bangla Cinema
+https://newhub247.store/app/csshd/live.m3u8?id=1657
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png" tvg-name="&Xplore HD" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=1668 , &Xplore HD
+https://newhub247.store/app/csshd/live.m3u8?id=1668
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" tvg-name="Colors Cineplex Bollywood" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=1763 , Colors Cineplex Bollywood
+https://newhub247.store/app/csshd/live.m3u8?id=1763
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" tvg-name="And Pictures" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=1839 , And Pictures
+https://newhub247.store/app/csshd/live.m3u8?id=1839
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaryaa_Cinema.png" tvg-name="Aaryaa Cinema" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=2189 , Aaryaa Cinema
+https://newhub247.store/app/csshd/live.m3u8?id=2189
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_flix_SD.png" tvg-name="& flix SD" tvg-type="Movies" tvg-language="English" group-title="Movies",tvg-id=3046 , & flix SD
+https://newhub247.store/app/csshd/live.m3u8?id=3046
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rdcmovies.png" tvg-name="RDC Movies" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=3054 , RDC Movies
+https://newhub247.store/app/csshd/live.m3u8?id=3054
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hiff_Movies.png" tvg-name="Hiff Movies" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=3060 , Hiff Movies
+https://newhub247.store/app/csshd/live.m3u8?id=3060
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/shemaroobollywood.png" tvg-name="Shemaroo Bollywood" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=3075 , Shemaroo Bollywood
+https://newhub247.store/app/csshd/live.m3u8?id=3075
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" tvg-name="Sony PIX HD" tvg-type="Movies" tvg-language="English" group-title="Movies",tvg-id=sl762 , Sony PIX HD
+https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" tvg-name="Sony MAX HD" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=sl476 , Sony MAX HD
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" tvg-name="Sony MAX 2" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",tvg-id=sl483 , Sony MAX 2
+https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" tvg-name="Sony Ten 5 HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=155 , Sony Ten 5 HD
+https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-name="Sony Ten 1 HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=162 , Sony Ten 1 HD
+https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" tvg-name="Sony Ten 1" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=514 , Sony Ten 1
+https://newhub247.store/app/csshd/live.m3u8?id=514
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" tvg-name="Ten 2" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=523 , Ten 2
+https://newhub247.store/app/csshd/live.m3u8?id=523
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" tvg-name="Sony Ten 3 Hindi" tvg-type="Sports" tvg-language="Hindi" group-title="Sports",tvg-id=524 , Sony Ten 3 Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=524
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" tvg-name="Sony Ten 5" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=525 , Sony Ten 5
+https://newhub247.store/app/csshd/live.m3u8?id=525
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" tvg-name="Eurosport HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=875 , Eurosport HD
+https://newhub247.store/app/csshd/live.m3u8?id=875
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" tvg-name="Sony Ten 2 HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=891 , Sony Ten 2 HD
+https://newhub247.store/app/csshd/live.m3u8?id=891
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" tvg-name="Sony Ten 3 HD Hindi" tvg-type="Sports" tvg-language="Hindi" group-title="Sports",tvg-id=892 , Sony Ten 3 HD Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=892
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST5_HD.png" tvg-name="TEST5 HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=1061 , TEST5 HD
+https://newhub247.store/app/csshd/live.m3u8?id=1061
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" tvg-name="JioGames HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=1163 , JioGames HD
+https://newhub247.store/app/csshd/live.m3u8?id=1163
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png" tvg-name="Eurosport" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=1294 , Eurosport
+https://newhub247.store/app/csshd/live.m3u8?id=1294
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MI_TV.png" tvg-name="MI TV" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=1529 , MI TV
+https://newhub247.store/app/csshd/live.m3u8?id=1529
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ESG.png" tvg-name="ESG TV" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=1675 , ESG TV
+https://newhub247.store/app/csshd/live.m3u8?id=1675
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" tvg-name="Jio Cricket English HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=1918 , Jio Cricket English HD
+https://newhub247.store/app/csshd/live.m3u8?id=1918
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" tvg-name="Sports18 1 HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=1984 , Sports18 1 HD
+https://newhub247.store/app/csshd/live.m3u8?id=1984
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png" tvg-name="Sports18 1" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=1985 , Sports18 1
+https://newhub247.store/app/csshd/live.m3u8?id=1985
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" tvg-name="Sports18 Khel" tvg-type="Sports" tvg-language="Hindi" group-title="Sports",tvg-id=1998 , Sports18 Khel
+https://newhub247.store/app/csshd/live.m3u8?id=1998
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Q_GameX.png" tvg-name="Q GameX" tvg-type="Sports" tvg-language="Hindi" group-title="Sports",tvg-id=2183 , Q GameX
+https://newhub247.store/app/csshd/live.m3u8?id=2183
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brave_TV.png" tvg-name="BRAVE TV" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=2766 , BRAVE TV
+https://newhub247.store/app/csshd/live.m3u8?id=2766
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-name="Red Bull TV" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=2779 , Red Bull TV
+https://newhub247.store/app/csshd/live.m3u8?id=2779
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_2.png" tvg-name="Sports18 2" tvg-type="Sports" tvg-language="Hindi" group-title="Sports",tvg-id=2852 , Sports18 2
+https://newhub247.store/app/csshd/live.m3u8?id=2852
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_3.png" tvg-name="Sports18 3" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=2853 , Sports18 3
+https://newhub247.store/app/csshd/live.m3u8?id=2853
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lancs_TV_HD.png" tvg-name="Lancs TV HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=3011 , Lancs TV HD
+https://newhub247.store/app/csshd/live.m3u8?id=3011
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-name="Sony TEN 1 HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=sl162 , Sony TEN 1 HD
+https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" tvg-name="Sony TEN 2 HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=sl891 , Sony TEN 2 HD
+https://mhdstream.com/sliv/stream.php?id=96585698|Referer=https://mhdstream.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" tvg-name="Sony TEN 3 HD" tvg-type="Sports" tvg-language="Hindi" group-title="Sports",tvg-id=sl892 , Sony TEN 3 HD
+https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" tvg-name="Sony TEN 5 HD" tvg-type="Sports" tvg-language="English" group-title="Sports",tvg-id=sl155 , Sony TEN 5 HD
+https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" tvg-name="Travelxp HD" tvg-type="Lifestyle" tvg-language="English" group-title="Lifestyle",tvg-id=164 , Travelxp HD
+https://newhub247.store/app/csshd/live.m3u8?id=164
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" tvg-name="TLC HD" tvg-type="Lifestyle" tvg-language="English" group-title="Lifestyle",tvg-id=479 , TLC HD
+https://newhub247.store/app/csshd/live.m3u8?id=479
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" tvg-name="GOOD TiMES" tvg-type="Lifestyle" tvg-language="English" group-title="Lifestyle",tvg-id=560 , GOOD TiMES
+https://newhub247.store/app/csshd/live.m3u8?id=560
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" tvg-name="Food Food" tvg-type="Lifestyle" tvg-language="Hindi" group-title="Lifestyle",tvg-id=561 , Food Food
+https://newhub247.store/app/csshd/live.m3u8?id=561
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" tvg-name="Travelxp HD Hindi" tvg-type="Lifestyle" tvg-language="Hindi" group-title="Lifestyle",tvg-id=562 , Travelxp HD Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=562
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_Hindi.png" tvg-name="TLC Hindi" tvg-type="Lifestyle" tvg-language="Hindi" group-title="Lifestyle",tvg-id=571 , TLC Hindi
+https://newhub247.store/app/csshd/live.m3u8?id=571
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_English.png" tvg-name="TLC English" tvg-type="Lifestyle" tvg-language="English" group-title="Lifestyle",tvg-id=574 , TLC English
+https://newhub247.store/app/csshd/live.m3u8?id=574
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wellness.png" tvg-name="testa" tvg-type="Lifestyle" tvg-language="Hindi" group-title="Lifestyle",tvg-id=795 , testa
+https://newhub247.store/app/csshd/live.m3u8?id=795
+
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wellness_TV.png" tvg-name="Wellness" tvg-type="Lifestyle" tvg-language="Hindi" group-title="Lifestyle",tvg-id=1292 , Wellness
+https://newhub247.store/app/csshd/live.m3u8?id=1292
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-name="FTV HD" tvg-type="Lifestyle" tvg-language="English" group-title="Lifestyle",tvg-id=1598 , FTV HD
+https://newhub247.store/app/csshd/live.m3u8?id=1598
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_XP.png" tvg-name="Foodxp" tvg-type="Lifestyle" tvg-language="Hindi" group-title="Lifestyle",tvg-id=1955 , Foodxp
+https://newhub247.store/app/csshd/live.m3u8?id=1955
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fashion_India.png" tvg-name="Fashion India" tvg-type="Lifestyle" tvg-language="English" group-title="Lifestyle",tvg-id=2031 , Fashion India
+https://newhub247.store/app/csshd/live.m3u8?id=2031
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-name="B4U Music" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=183 , B4U Music
+https://newhub247.store/app/csshd/live.m3u8?id=183
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" tvg-name="MTV" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=248 , MTV
+https://newhub247.store/app/csshd/live.m3u8?id=248
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-name="Music India" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=250 , Music India
+https://newhub247.store/app/csshd/live.m3u8?id=250
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" tvg-name="9X Jalwa" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=440 , 9X Jalwa
+https://newhub247.store/app/csshd/live.m3u8?id=440
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mastiii.png" tvg-name="Mastiii" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=584 , Mastiii
+https://newhub247.store/app/csshd/live.m3u8?id=584
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" tvg-name="Zing" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=585 , Zing
+https://newhub247.store/app/csshd/live.m3u8?id=585
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png" tvg-name="9XM" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=587 , 9XM
+https://newhub247.store/app/csshd/live.m3u8?id=587
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" tvg-name="E 24" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=591 , E 24
+https://newhub247.store/app/csshd/live.m3u8?id=591
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" tvg-name="ZOOM" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=592 , ZOOM
+https://newhub247.store/app/csshd/live.m3u8?id=592
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" tvg-name="Sangeet Bangla" tvg-type="Music" tvg-language="Bengali" group-title="Music",tvg-id=740 , Sangeet Bangla
+https://newhub247.store/app/csshd/live.m3u8?id=740
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" tvg-name="Sangeet Bhojpuri" tvg-type="Music" tvg-language="Bhojpuri" group-title="Music",tvg-id=741 , Sangeet Bhojpuri
+https://newhub247.store/app/csshd/live.m3u8?id=741
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" tvg-name="mh1 (Music)" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=742 , mh1 (Music)
+https://newhub247.store/app/csshd/live.m3u8?id=742
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" tvg-name="MTV Beats HD" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=753 , MTV Beats HD
+https://newhub247.store/app/csshd/live.m3u8?id=753
+
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Only_Music.png" tvg-name="Only Music" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=903 , Only Music
+https://newhub247.store/app/csshd/live.m3u8?id=903
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PBN_Music.png" tvg-name="PBN Music" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=905 , PBN Music
+https://newhub247.store/app/csshd/live.m3u8?id=905
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-name="Boogle Bollywood" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=962 , Boogle Bollywood
+https://newhub247.store/app/csshd/live.m3u8?id=962
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PEACE_MUSIC.png" tvg-name="PEACE MUSIC" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=1103 , PEACE MUSIC
+https://newhub247.store/app/csshd/live.m3u8?id=1103
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-name="MTV HD Plus" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=1145 , MTV HD Plus
+https://newhub247.store/app/csshd/live.m3u8?id=1145
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Chak_De.png" tvg-name="PTC Chak De" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=1172 , PTC Chak De
+https://newhub247.store/app/csshd/live.m3u8?id=1172
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" tvg-name="Steelbird Music" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=1184 , Steelbird Music
+https://newhub247.store/app/csshd/live.m3u8?id=1184
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png" tvg-name="PTC DHOL TV" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=1188 , PTC DHOL TV
+https://newhub247.store/app/csshd/live.m3u8?id=1188
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png" tvg-name="PTC Music" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=1189 , PTC Music
+https://newhub247.store/app/csshd/live.m3u8?id=1189
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png" tvg-name="Brit Asia" tvg-type="Music" tvg-language="English" group-title="Music",tvg-id=1192 , Brit Asia
+https://newhub247.store/app/csshd/live.m3u8?id=1192
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bol_Hadippa.png" tvg-name="Bol Hadippa" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=1248 , Bol Hadippa
+https://newhub247.store/app/csshd/live.m3u8?id=1248
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kadak_Hits.png" tvg-name="Kadak Hits" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=1249 , Kadak Hits
+https://newhub247.store/app/csshd/live.m3u8?id=1249
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" tvg-name="Insync" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=1286 , Insync
+https://newhub247.store/app/csshd/live.m3u8?id=1286
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VH1_HD.png" tvg-name="VH1 HD" tvg-type="Music" tvg-language="English" group-title="Music",tvg-id=1320 , VH1 HD
+https://newhub247.store/app/csshd/live.m3u8?id=1320
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VH1.png" tvg-name="VH1" tvg-type="Music" tvg-language="English" group-title="Music",tvg-id=1378 , VH1
+https://newhub247.store/app/csshd/live.m3u8?id=1378
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" tvg-name="MTV Beats SD" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=1400 , MTV Beats SD
+https://newhub247.store/app/csshd/live.m3u8?id=1400
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SongDew_TV.png" tvg-name="SongDew TV" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=1411 , SongDew TV
+https://newhub247.store/app/csshd/live.m3u8?id=1411
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png" tvg-name="Wah Punjabi" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=1441 , Wah Punjabi
+https://newhub247.store/app/csshd/live.m3u8?id=1441
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" tvg-name="Balle Balle TV" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=1453 , Balle Balle TV
+https://newhub247.store/app/csshd/live.m3u8?id=1453
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Haryanvi_Hits.png" tvg-name="Haryanvi Hits" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=1527 , Haryanvi Hits
+https://newhub247.store/app/csshd/live.m3u8?id=1527
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Haryana_Beats.png" tvg-name="Haryana Beats" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=1694 , Haryana Beats
+https://newhub247.store/app/csshd/live.m3u8?id=1694
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SKY_12.png" tvg-name="SKY 12" tvg-type="Music" tvg-language="Bengali" group-title="Music",tvg-id=1708 , SKY 12
+https://newhub247.store/app/csshd/live.m3u8?id=1708
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" tvg-name="7X Music" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=1871 , 7X Music
+https://newhub247.store/app/csshd/live.m3u8?id=1871
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dil_Se.png" tvg-name="Dil Se" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2036 , Dil Se
+https://newhub247.store/app/csshd/live.m3u8?id=2036
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pop_Pataka.png" tvg-name="Pop Pataka" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2037 , Pop Pataka
+https://newhub247.store/app/csshd/live.m3u8?id=2037
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal.png" tvg-name="Dhamaal" tvg-type="Music" tvg-language="Bhojpuri" group-title="Music",tvg-id=2038 , Dhamaal
+https://newhub247.store/app/csshd/live.m3u8?id=2038
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazraana.png" tvg-name="Nazraana" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2042 , Nazraana
+https://newhub247.store/app/csshd/live.m3u8?id=2042
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Artist_Aloud.png" tvg-name="Artist Aloud" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2043 , Artist Aloud
+https://newhub247.store/app/csshd/live.m3u8?id=2043
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/RS_Bharat.png" tvg-name="RS Bharat" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2063 , RS Bharat
+https://newhub247.store/app/csshd/live.m3u8?id=2063
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Merchant_Records.png" tvg-name="Merchant Records" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2064 , Merchant Records
+https://newhub247.store/app/csshd/live.m3u8?id=2064
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Music.png" tvg-name="Saregama Music" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2065 , Saregama Music
+https://newhub247.store/app/csshd/live.m3u8?id=2065
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" tvg-name="Bhojpuri Junction" tvg-type="Music" tvg-language="Bhojpuri" group-title="Music",tvg-id=2229 , Bhojpuri Junction
+https://newhub247.store/app/csshd/live.m3u8?id=2229
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" tvg-name="Jio Specials HD" tvg-type="Music" tvg-language="English" group-title="Music",tvg-id=2230 , Jio Specials HD
+https://newhub247.store/app/csshd/live.m3u8?id=2230
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Music_Station.png" tvg-name="Desi Music Station" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2252 , Desi Music Station
+https://newhub247.store/app/csshd/live.m3u8?id=2252
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png" tvg-name="Saga Music" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=2750 , Saga Music
+https://newhub247.store/app/csshd/live.m3u8?id=2750
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" tvg-name="Saga Music Haryanvi" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2751 , Saga Music Haryanvi
+https://newhub247.store/app/csshd/live.m3u8?id=2751
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" tvg-name="YRF Music" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2753 , YRF Music
+https://newhub247.store/app/csshd/live.m3u8?id=2753
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Hum_Bhojpuri.png" tvg-name="Saregama Hum Bhojpuri" tvg-type="Music" tvg-language="Bhojpuri" group-title="Music",tvg-id=2755 , Saregama Hum Bhojpuri
+https://newhub247.store/app/csshd/live.m3u8?id=2755
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Hits.png" tvg-name="Punjabi Hits" tvg-type="Music" tvg-language="Punjabi" group-title="Music",tvg-id=2934 , Punjabi Hits
+https://newhub247.store/app/csshd/live.m3u8?id=2934
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Oye_Music.png" tvg-name="Oye Music" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2936 , Oye Music
+https://newhub247.store/app/csshd/live.m3u8?id=2936
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Coke_Studio_Bharat.png" tvg-name="Coke Studio Bharat" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=2944 , Coke Studio Bharat
+https://newhub247.store/app/csshd/live.m3u8?id=2944
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CokeStudio_Bharat_S1.png" tvg-name="Coke Studio Bharat Season 1" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=3003 , Coke Studio Bharat Season 1
+https://newhub247.store/app/csshd/live.m3u8?id=3003
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhoom_Music_Bangla.png" tvg-name="Dhoom Music Bangla" tvg-type="Music" tvg-language="Bengali" group-title="Music",tvg-id=3006 , Dhoom Music Bangla
+https://newhub247.store/app/csshd/live.m3u8?id=3006
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/shemaroofilmigaane.png" tvg-name="Shemaroo Filmy Gaane" tvg-type="Music" tvg-language="Hindi" group-title="Music",tvg-id=3074 , Shemaroo Filmy Gaane
+https://newhub247.store/app/csshd/live.m3u8?id=3074
+
+## Made with Love By Pr4nto Bhai => https://t.me/pranto_bhai
+
+#EXTINF:-1 tvg-id="15" tvg-logo="https://s3.aynaott.com/storage/3e766841707f8a394d34393f7830c9c4", Channel 24
+https://aynaxpranto.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://s3.aynaott.com/storage/001f807e38f94ec504622c0e8358c008", ATN News
+https://aynaxpranto.vercel.app/api/stream/a0a29f90-f7c2-4cc2-b0b4-667253585b84.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://s3.aynaott.com/storage/dc5a9964ef9d475ff86f609684e127a2", Independent TV
+https://aynaxpranto.vercel.app/api/stream/22f28ae5-8c15-4904-b9f6-70bbd94cbc43.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://s3.aynaott.com/storage/51a07e1b00483f51e0bd53a30f2c4c13", Boishakhi TV
+https://aynaxpranto.vercel.app/api/stream/92890d5c-473a-454c-ad10-2c6c0c91062a.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-logo="https://s3.aynaott.com/storage/9e279836b9a059fdbb812eee8bccd4e8", NEXUS TV
+https://aynaxpranto.vercel.app/api/stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-logo="https://s3.aynaott.com/storage/9da40c7f6b2ad7315ffd3191ce75d0eb", Ekhon TV
+https://aynaxpranto.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-logo="https://s3.aynaott.com/storage/63df5e0bad98bac21d24e6f3f50d2891", Bangla TV
+https://aynaxpranto.vercel.app/api/stream/addb7014-1d2e-41d8-982d-7cafbdc48770.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-logo="https://s3.aynaott.com/storage/d0ce1e83699ef39de269d008206195af", Bijoy TV
+https://aynaxpranto.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-logo="https://s3.aynaott.com/storage/7be5b99c1df304d14cfec95e8d69b0c2", Mohona TV
+https://aynaxpranto.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-logo="https://s3.aynaott.com/storage/7cf2b06797fbf033a81f5d253fd6adcb", Jamuna TV
+https://aynaxpranto.vercel.app/api/stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-logo="https://s3.aynaott.com/storage/269524291fc8adec3dc85ae1ab4ca0ad", Ekattor TV
+https://aynaxpranto.vercel.app/api/stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-logo="https://s3.aynaott.com/storage/5454f8b59b088ef70819cb2c3267da57", My TV
+https://aynaxpranto.vercel.app/api/stream/c0480a4a-f066-4a20-9f7d-73bbd852260f.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://s3.aynaott.com/storage/ba6a7d0b4785ac8d1c5b53ce412f3e6a", Somoy News TV
+https://aynaxpranto.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://s3.aynaott.com/storage/82a90bc541e05dcfdd05f4f84b1ad0a1", Desh TV
+https://aynaxpranto.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-logo="https://s3.aynaott.com/storage/f839442c4ee34248b3dbce6edd44d90b", SA TV
+https://aynaxpranto.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://s3.aynaott.com/storage/3796fc1aca68618c57d39685a2762f94", NTV
+https://aynaxpranto.vercel.app/api/stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-logo="https://s3.aynaott.com/storage/aa4fd179581acb998adc029d5b0a5fc8", Ananda TV
+https://aynaxpranto.vercel.app/api/stream/a108c4e9-ccfa-42f2-8f8f-169ded28cca2.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://s3.aynaott.com/storage/80d96d4a6b482d387a1a6b36f215c2d4", Bangla Vision
+https://aynaxpranto.vercel.app/api/stream/21e75798-3b6a-4214-9d93-b3fecaa4e700.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://s3.aynaott.com/storage/31a012aaae459ceec831726c0bc0c500", Channel I
+https://aynaxpranto.vercel.app/api/stream/20714fd4-dc3c-46d6-924f-3038d61f027c.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://s3.aynaott.com/storage/ec81d49a4356db94d1bf54d0ab3ee504", RTV
+https://aynaxpranto.vercel.app/api/stream/70e97db9-5a9e-4642-874e-af3d30ba9925.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://s3.aynaott.com/storage/85e20cee815e7ee532133ad7ae4ac571", ATN Bangla
+https://aynaxpranto.vercel.app/api/stream/9046949b-9847-4b5d-96c1-e82b0734444b.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://s3.aynaott.com/storage/21bfdd29c834c89ed523ac5eb73f3856", ETV
+https://aynaxpranto.vercel.app/api/stream/b3f0df76-15ba-4ede-a7de-bbaaf23a630e.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://s3.aynaott.com/storage/79e9c75994c011fde97748ff39d5ba68", Maasranga TV
+https://aynaxpranto.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://s3.aynaott.com/storage/2ea72603615c5a81e098d12342ddc3b4", Channel 9
+https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://s3.aynaott.com/storage/dafda2a4f06d7f8ed7cc5883c23803d9", Deepto TV
+https://aynaxpranto.vercel.app/api/stream/0be12af9-e713-4c65-b4ed-b735793a0418.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://s3.aynaott.com/storage/80dd1b2e3f8a679d1ffb4e0de28da68c", T Sports HD
+https://aynaxpranto.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-logo="https://s3.aynaott.com/storage/0fd66b697ff9717751acf57347acb615", Asian TV
+https://aynaxpranto.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://s3.aynaott.com/storage/9b4249404931f8d4ec18da78326748a8", News 24 BD
+https://aynaxpranto.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://s3.aynaott.com/storage/ee760ffef5e5259d5ccbf5c3441fcde3", Gazi TV
+https://aynaxpranto.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/71206b9bbc2b330b346564a9369a20d9", Duronto TV
+https://aynaxpranto.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://s3.aynaott.com/storage/bd294eb45333642d627ce136d9cade93", DBC News
+https://aynaxpranto.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-logo="https://s3.aynaott.com/storage/feb62086aa403c6f3463762e25ba82a5", Global TV
+https://aynaxpranto.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-logo="https://s3.aynaott.com/storage/1c22bca22dc77c03b5ed6349bc773079", A sports
+https://aynaxpranto.vercel.app/api/stream/a3d48c46-7902-45e2-abf9-0fab60c4d117.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-logo="https://s3.aynaott.com/storage/40d9dea48ceccd9214e91bbd1b9216e7", P TV Sports
+https://aynaxpranto.vercel.app/api/stream/eacf6c3f-0773-4bc3-a03a-cfee09f10348.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-logo="https://s3.aynaott.com/storage/71bd11ad565490d6fc665b8298902801", Fox Sports 2
+https://aynaxpranto.vercel.app/api/stream/93c7e57d-e666-488a-aec9-a339a7e5eb74.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-logo="https://s3.aynaott.com/storage/73f8edb172a31a81cf7c35ed158034d9", Star Sports 1 HD
+https://aynaxpranto.vercel.app/api/stream/f064e069-8861-43d5-ac79-828b029a50a1.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-logo="https://s3.aynaott.com/storage/e436da5b5be7f4f292b019b94ae4ad8b", Star Sports Select 2 HD
+https://aynaxpranto.vercel.app/api/stream/6cce2b86-f371-4184-b288-988de0607926.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-logo="https://s3.aynaott.com/storage/d3365eb204da4231533eec6c43c95e62", Sports 18
+https://aynaxpranto.vercel.app/api/stream/f1e1b6c8-9a1b-492d-bdf9-b63295e6073e.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-logo="https://s3.aynaott.com/storage/75b6c311d82e78f5e4d9243f3b0e9d91", Bein Sports
+https://aynaxpranto.vercel.app/api/stream/490e6a84-17e2-42bb-8725-66af0c067239.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-logo="https://s3.aynaott.com/storage/eeb56e1b3b2517979d71fd4b5c653a74", BT Sports 2
+https://aynaxpranto.vercel.app/api/stream/10bb1341-2aa8-4be2-8a25-76a75f5a3ee7.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-logo="https://s3.aynaott.com/storage/8dffd947454d0e63ab2f0d73a62006eb", Espn
+https://aynaxpranto.vercel.app/api/stream/e263cd7f-45e9-4bc6-a350-bf968eb51b14.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-logo="https://s3.aynaott.com/storage/3f3e598e5724e036f4c92f0e2ba97e18", TSN 2
+https://aynaxpranto.vercel.app/api/stream/32d28b2c-aded-481d-833b-cee57cecfc93.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-logo="", Baby TV
+https://aynaxpranto.vercel.app/api/stream/5c62ff81-0efc-42eb-9dbe-65402fa54afb.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-logo="https://s3.aynaott.com/storage/53b61525cccd385419ef395273f66077", Cartoon Network
+https://aynaxpranto.vercel.app/api/stream/e73ffada-f80a-4c23-9bd8-76142e41c389.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-logo="https://s3.aynaott.com/storage/a9f1e8ac5dbaf8b29ac51e8392e49914", PBS Kids
+https://aynaxpranto.vercel.app/api/stream/d6d46db7-a14a-45ad-b576-b40c80406134.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-logo="https://s3.aynaott.com/storage/8783ac8c37192c21051405ea2dc57ffa", Disney JR
+https://aynaxpranto.vercel.app/api/stream/a9791899-66f2-4b94-9521-c333498f7ab9.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-logo="https://s3.aynaott.com/storage/54038789ddbd8064f15d6a4e6ca739bc", Nicktoons
+https://aynaxpranto.vercel.app/api/stream/3830c379-539b-4e18-9943-9664574c850b.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-logo="https://s3.aynaott.com/storage/4ff26fcdc9c7fdebcd79d61893271f69", Nickjr
+https://aynaxpranto.vercel.app/api/stream/c197b1bc-8909-4176-a50f-f855a4a51c1f.m3u8
+
