@@ -795,3 +795,6 @@ https://aynaxpranto.vercel.app/api/stream/3830c379-539b-4e18-9943-9664574c850b.m
 #EXTINF:-1 tvg-id="49" tvg-logo="https://s3.aynaott.com/storage/4ff26fcdc9c7fdebcd79d61893271f69", Nickjr
 https://aynaxpranto.vercel.app/api/stream/c197b1bc-8909-4176-a50f-f855a4a51c1f.m3u8
 
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno= tvg-id="15" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1719127158-LIVE.jpg", T Sports Live 01
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
