@@ -1,0 +1,32 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch playlists and merge
+        run: |
+          # Download the two playlists
+          curl -L -o playlist1.m3u "https://kailivetv.vercel.app/JiotvxKOBiR.m3u"
+          curl -L -o playlist2.m3u "https://aynaxpranto.vercel.app/files/playlist.m3u"
+
+          # Merge playlists into one file with a proper header
+          echo "#EXTM3U" > KobirAllinOne.m3u
+          tail -n +2 playlist1.m3u >> KobirAllinOne.m3u
+          tail -n +2 playlist2.m3u >> KobirAllinOne.m3u
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add KobirAllinOne.m3u
+          git commit -m "Updated M3U Playlist - $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+          git push
