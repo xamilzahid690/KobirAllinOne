@@ -17,11 +17,13 @@ jobs:
           # Download the two playlists
           curl -L -o playlist1.m3u "https://kailivetv.vercel.app/JiotvxKOBiR.m3u"
           curl -L -o playlist2.m3u "https://aynaxpranto.vercel.app/files/playlist.m3u"
+          curl -L -o playlist3.m3u "https://raw.githubusercontent.com/Yeadee/TSports/refs/heads/main/tsports_ott_navigator.m3u"
 
           # Merge playlists into one file with a proper header
           echo "#EXTM3U" > KobirAllinOne.m3u
           tail -n +2 playlist1.m3u >> KobirAllinOne.m3u
           tail -n +2 playlist2.m3u >> KobirAllinOne.m3u
+          tail -n +2 playlist3.m3u >> KobirAllinOne.m3u
 
       - name: Commit and Push Changes
         run: |
