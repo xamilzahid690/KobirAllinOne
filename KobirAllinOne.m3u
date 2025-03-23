@@ -743,6 +743,6 @@ https://nayeemparvez.online/aynaaa/watch.php?id=0be12af9-e713-4c65-b4ed-b735793a
 #EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="https://s3.aynaott.com/storage/043e278ebacaacd2b600261022212efa" group-title="AynaOTT", Disney JR
 https://nayeemparvez.online/aynaaa/watch.php?id=a9791899-66f2-4b94-9521-c333498f7ab9&format=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/73e1e1de1f7e0f63a844f3f7585b6a24" group-title="AynaOTT", RTV
-https://nayeemparvez.online/aynaaa/watch.php?id=70e97db9-5a9e-4642-874e-af3d30ba9925&format=.m3u8https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+https://nayeemparvez.online/aynaaa/watch.php?id=70e97db9-5a9e-4642-874e-af3d30ba9925&format=.m3u8https://live-test.tsports.com/live-02/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno= tvg-id="15" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1719127158-LIVE.jpg", T Sports Live 01
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+https://live-test.tsports.com/live-01/playlist.m3u8
