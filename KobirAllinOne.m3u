@@ -13,7 +13,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
 #EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeebangla" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
-https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeebangla
+https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-9z5543514" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD
 https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-9z5543514
@@ -50,7 +50,7 @@ https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-bigganga
 https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeeanmol
 
 #EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-zeecinemahd" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-zeecinemahd
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-tvpictureshd" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&Pictures HD
 https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-tvpictureshd
