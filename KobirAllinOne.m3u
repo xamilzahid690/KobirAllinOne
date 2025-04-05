@@ -21,9 +21,6 @@ https://dns.bajimath.com/candy/vstream.php?id=41559a92a8db&e=.m3u8
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="Entertainment", Big Magic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/bigmagic_1786965389.m3u8
@@ -163,13 +160,6 @@ https://newhub247.store/newsh/live.m3u8?id=756
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Exclusive.png" tvg-name="Jio Exclusive HD" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=866 , Jio Exclusive HD
 https://newhub247.store/newsh/live.m3u8?id=866
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arre.png" tvg-name="Arre HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=963 , Arre HD
-https://newhub247.store/newsh/live.m3u8?id=963
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST1_HD.png" tvg-name="TEST1 HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=978 , TEST1 HD
-https://newhub247.store/newsh/live.m3u8?id=978
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST2_HD.png" tvg-name="TEST2 HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=979 , TEST2 HD
-https://newhub247.store/newsh/live.m3u8?id=979
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TheQIndia.png" tvg-name="The Q" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=1066 , The Q
 https://newhub247.store/newsh/live.m3u8?id=1066
 
@@ -186,10 +176,6 @@ https://newhub247.store/newsh/live.m3u8?id=1232
 https://newhub247.store/newsh/live.m3u8?id=1325
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" tvg-name="Comedy Central SD" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=1327 , Comedy Central SD
 https://newhub247.store/newsh/live.m3u8?id=1327
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Arunprabha.png" tvg-name="DD Arunprabha" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1328 , DD Arunprabha
-https://newhub247.store/newsh/live.m3u8?id=1328
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Gyandarshan.png" tvg-name="DD Gyandarshan" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1329 , DD Gyandarshan
-https://newhub247.store/newsh/live.m3u8?id=1329
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" tvg-name="Big Magic" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1359 , Big Magic
 https://newhub247.store/newsh/live.m3u8?id=1359
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" tvg-name="Colors SD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1368 , Colors SD
@@ -205,11 +191,6 @@ https://newhub247.store/newsh/live.m3u8?id=1667
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" tvg-name="Sun Bangla" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=1669 , Sun Bangla
 https://newhub247.store/newsh/live.m3u8?id=1669
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/V24_TV.png" tvg-name="JKAC News" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1739 , JKAC News
-https://newhub247.store/newsh/live.m3u8?id=1739
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Channel_Vision.png" tvg-name="Channel Vision" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=1762 , Channel Vision
-https://newhub247.store/newsh/live.m3u8?id=1762
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pasand.png" tvg-name="Pasand" tvg-type="Entertainment" tvg-language="Bhojpuri" group-title="Entertainment",tvg-id=1798 , Pasand
 https://newhub247.store/newsh/live.m3u8?id=1798
 
@@ -222,13 +203,6 @@ https://newhub247.store/newsh/live.m3u8?id=1925
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" tvg-name="Shemaroo TV" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=1961 , Shemaroo TV
 https://newhub247.store/newsh/live.m3u8?id=1961
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PlusTest1.png" tvg-name="PlusTest1" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2000 , PlusTest1
-https://newhub247.store/newsh/live.m3u8?id=2000
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PlusTest2_HD.png" tvg-name="PlusTest2 HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2001 , PlusTest2 HD
-https://newhub247.store/newsh/live.m3u8?id=2001
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV.png" tvg-name="And TV" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2024 , And TV
-https://newhub247.store/newsh/live.m3u8?id=2024
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bollywood_Hungama.png" tvg-name="Bollywood Hungama" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2040 , Bollywood Hungama
 https://newhub247.store/newsh/live.m3u8?id=2040
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" tvg-name="Gangaur" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2077 , Gangaur
@@ -239,23 +213,13 @@ https://newhub247.store/newsh/live.m3u8?id=2078
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-name="Animax" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=2258 , Animax
 https://newhub247.store/newsh/live.m3u8?id=2258
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png" tvg-name="Friends TV" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=2354 , Friends TV
-https://newhub247.store/newsh/live.m3u8?id=2354
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bangla.png" tvg-name="Boogle Bangla" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=2817 , Boogle Bangla
 https://newhub247.store/newsh/live.m3u8?id=2817
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" tvg-name="KCM" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=2854 , KCM
-https://newhub247.store/newsh/live.m3u8?id=2854
 
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/No_Filter_Neha.png" tvg-name="NoFilterNeha" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=2962 , NoFilterNeha
-https://newhub247.store/newsh/live.m3u8?id=2962
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" tvg-name="Rupashi Bangla" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=3005 , Rupashi Bangla
 https://newhub247.store/newsh/live.m3u8?id=3005
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maya_Tv.png" tvg-name="Maya Tv" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",tvg-id=3008 , Maya Tv
-https://newhub247.store/newsh/live.m3u8?id=3008
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rai_Vs_Rai.png" tvg-name="Sony LIV Exclusive" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=3020 , Sony LIV Exclusive
-https://newhub247.store/newsh/live.m3u8?id=3020
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/RC_Studio.png" tvg-name="RC Studio" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=3021 , RC Studio
 https://newhub247.store/newsh/live.m3u8?id=3021
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" tvg-name="Unique Tv" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=3022 , Unique Tv
@@ -269,8 +233,6 @@ https://newhub247.store/newsh/live.m3u8?id=3069
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_Asia.png" tvg-name="TV Asia Powered by Shemaroo" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=3071 , TV Asia Powered by Shemaroo
 https://newhub247.store/newsh/live.m3u8?id=3071
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sundrani_TV.png" tvg-name="Sundrani TV" tvg-type="Entertainment" tvg-language="" group-title="Entertainment",tvg-id=3083 , Sundrani TV
-https://newhub247.store/newsh/live.m3u8?id=3083
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png" tvg-name="Taiwan Plus" tvg-type="Entertainment" tvg-language="English" group-title="Entertainment",tvg-id=3084 , Taiwan Plus
 https://newhub247.store/newsh/live.m3u8?id=3084
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-name="Sony HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=sl291 , Sony HD
@@ -284,20 +246,16 @@ https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralama
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-name="Nick Junior" tvg-type="Kids" tvg-language="English" group-title="Kids",tvg-id=544 , Nick Junior
 https://newhub247.store/newsh/live.m3u8?id=544
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" tvg-name="Nick Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=545 , Nick Hindi
-https://newhub247.store/newsh/live.m3u8?id=545
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-name="Nickelodeon Jr." tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=548 , Nickelodeon Jr.
 https://newhub247.store/newsh/live.m3u8?id=548
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" tvg-name="Discovery Kids 2" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=554 , Discovery Kids 2
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" tvg-name="Discovery Kids " tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=554 , Discovery Kids 
 https://newhub247.store/newsh/live.m3u8?id=554
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-name="Pogo Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=559 , Pogo Hindi
 https://newhub247.store/newsh/live.m3u8?id=559
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" tvg-name="Sonic Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=815 , Sonic Hindi
-https://newhub247.store/newsh/live.m3u8?id=815
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" tvg-name="Cartoon Network Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=816, Cartoon Network Hindi
 https://newhub247.store/newsh/live.m3u8?id=816
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image//sm/sony-yay-bangla.png" tvg-name="Sony Yay Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=872  , Sony Yay Bangla
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image//sm/sony-yay-bangla.png" tvg-name="Sony Yay Bangla" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=872  , Sony Yay Bangla
 https://dns.bajimath.com/candy/vstream.php?id=edf7ba617dc5&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" tvg-name="Sony Yay Hindi" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",tvg-id=872 , Sony Yay Hindi
@@ -349,23 +307,10 @@ https://newhub247.store/newsh/live.m3u8?id=578
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Events.png" tvg-name="Jio Events HD" tvg-type="Infotainment" tvg-language="Hindi" group-title="Infotainment",tvg-id=871 , Jio Events HD
 https://newhub247.store/newsh/live.m3u8?id=871
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Channel.png" tvg-name="Desi Channel" tvg-type="Infotainment" tvg-language="Punjabi" group-title="Infotainment",tvg-id=906 , Desi Channel
-https://newhub247.store/newsh/live.m3u8?id=906
-
-
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Global_Sanjh.png" tvg-name="Global Sanjh" tvg-type="Infotainment" tvg-language="Punjabi" group-title="Infotainment",tvg-id=1265 , Global Sanjh
-https://newhub247.store/newsh/live.m3u8?id=1265
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_TV18_SD.png" tvg-name="History TV18 SD" tvg-type="Infotainment" tvg-language="English" group-title="Infotainment",tvg-id=1471 , History TV18 SD
 https://newhub247.store/newsh/live.m3u8?id=1471
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/World_Punjab.png" tvg-name="World  Punjabi" tvg-type="Infotainment" tvg-language="Punjabi" group-title="Infotainment",tvg-id=1534 , World  Punjabi
-https://newhub247.store/newsh/live.m3u8?id=1534
-
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png" tvg-name="Sristi TV" tvg-type="Infotainment" tvg-language="Bengali" group-title="Infotainment",tvg-id=1561 , Sristi TV
-https://newhub247.store/newsh/live.m3u8?id=1561
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Purnima_TV.png" tvg-name="Purnima TV" tvg-type="Infotainment" tvg-language="Bengali" group-title="Infotainment",tvg-id=1740 , Purnima TV
 https://newhub247.store/newsh/live.m3u8?id=1740
