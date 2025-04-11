@@ -4,7 +4,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_list/1170x658310781121.png" group-title="Entertainment", Zee Bangla HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 
 #EXTINF:-1 tvg-id="Sony.yay.in" tvg-name="Sony Yay Bangla" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Kids", Sony Yay Bangla
@@ -17,90 +16,63 @@ https://dns.bajimath.com/candy/vstream.php?id=65f4f4c8b5c9&e=.m3u8
 https://dns.bajimath.com/candy/vstream.php?id=41559a92a8db&e=.m3u8
 
 #EXTINF:-1 tvg-id="0-9-9z5543514" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5543514/channel_list/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" group-title="Movie", &Prive HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="Entertainment", Big Magic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/bigmagic_1786965389.m3u8
 #EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_list/1170x658withlogo596214b303fa477e9eb584d1814d1c4c.png" group-title="Music", Zing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png" group-title="Entertainment", Zee TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png" group-title="Entertainment", &TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_list/1170x658withlogo325698699.png" group-title="Entertainment", Zee Cafe HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
 #EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" group-title="Movie", Zee Anmol Cinema 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 
 
 
 #EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_list/1170x658withlog1844143347.png" group-title="Entertainment", Zee Anmol
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_list/1170x658withlogo9430ec08479b47f0a19c0283cd9495a7.png" group-title="Movie", Zee Cinema HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
-
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png" group-title="Movie", &Pictures HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_list/1170x658483062857.png" group-title="Movie", Zee Talkies HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeetalkies.m3u8
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_list/1170x658withlog1238879598.png" group-title="Movie", Zee Bangla Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
-
 #EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_list/1170x658withlog1721007595.png" group-title="Movie", Zee Anmol Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_list/1170x658withlogo9806c31f295c43429c966219ea84fb6b.png" group-title="Movie", Zee Bollywood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_list/1170x658withlog1269578414.png" group-title="Movie", &Pictures
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/pictures.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_list/1170x658withlogocac7810d94c848dba02ed5ab44341a78.png" group-title="Movie", Zee Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png" group-title="Movie", Zee Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movie", &flix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
-
 #EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetv/channel_list/1170x658withlogob3ded26b5724474a92c53277b074fe5f.png" group-title="Entertainment", Zee TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeetv.m3u8
 
 
 
 #EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_list/1170x658d4d3573a17f24dcdb86c0da75e7208e8.png" group-title="Movie", Zee Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/176.m3u8
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="Movie", &xplorHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/209.m3u8
 #EXTINF:-1 tvg-id="0-9-216" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-216/channel_list/1170x658withlogo20909261.png" group-title="Movie", Zee Biskope
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/216.m3u8
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="Lifestyle", Zee Zest HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/348.m3u8
 
 #EXTINF:-1 tvg-id="0-9-9z5383484" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png" group-title="Entertainment", Zee Bangla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/9z5383484.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-name="Colors HD" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",tvg-id=144 , Colors HD
